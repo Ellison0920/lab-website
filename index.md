@@ -34,13 +34,13 @@ Our research focused on ... .
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+we need content to capture other researcher's interest 
+
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See our publication"
   icon="fas fa-arrow-right"
   flip=true
 %}
