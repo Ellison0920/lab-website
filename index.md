@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Yan's lab
 
 [Our lab](https://github.com/greenelab/lab-website-template) is an MRI research group on arterial spin labelling imaging for [labs](https://www.greenelab.com/), with adds-on processing tools and well-suited pulse sequence for MRI imaging. 
 Our research focused on ... . 
@@ -56,8 +56,7 @@ we need content to capture other researcher's interest
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+resources for ASL imaging processing 
 
 {%
   include link.html
@@ -79,7 +78,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+open position will be coming soon
 
 {%
   include link.html
@@ -99,5 +98,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The website is still under-developed. Currently is maintained by Yining HE, heyining@northwestern.edu 
