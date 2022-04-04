@@ -1,17 +1,11 @@
 ---
-name: Hello world
+name: Yining HE
 image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
+description: Electrical Engineer
+role: programmer/data scientist/MRI research
+
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  email: heyining@northwestern.edu
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+nothing to tell 
