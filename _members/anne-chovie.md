@@ -1,5 +1,5 @@
 ---
-name: Anne Chovie
+name: Hello world
 image: images/member.jpg
 description: Bark Ops Engineer
 role: programmer
